@@ -1,4 +1,5 @@
 # 🎬 High-Speed M3U8 Video Downloader (Go)
+“This project was created with the help of an AI assistant.”
 
 A **blazing fast** m3u8 video downloader written in Go with concurrent segment downloads - **10-50x faster** than ffmpeg!
 
